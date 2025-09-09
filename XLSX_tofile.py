@@ -12,4 +12,4 @@ with open("file_example_XLSX_10.xlsx", "wb") as f:
 # Read the Excel file into a DataFrame
 df = pd.read_excel("file_example_XLSX_10.xlsx")
 
-print(df)
+
