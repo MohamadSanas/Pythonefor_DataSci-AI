@@ -11,3 +11,7 @@ def download (url,file_name):
             
 
 download (fileName,"./dog.jpg")
+
+img=Image.open('./dog.jpg','r')
+
+img.show()
